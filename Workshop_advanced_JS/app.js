@@ -106,3 +106,4 @@ console.log(freeTrip.toString());
 
 /// *** Promise, Set, Map ***
 
+module.exports = { Trip };
